@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://azdaom.csgad.com/aDf/sitemap.xml.gz
